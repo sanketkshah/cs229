@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+ImageNet-Wiki_dataset/
+ImageNetV2-matched-frequency.tar.gz
+models/
+wandb/
+ImageNetV2-matched-frequency/
+data/
+*.pkl
+*.mdl
